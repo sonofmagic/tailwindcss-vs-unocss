@@ -110,3 +110,5 @@ stats/*.html
 
 bench/source/gen*.js
 bench/result.json
+bench-postcss/source/gen*.js
+bench-postcss/result.json
