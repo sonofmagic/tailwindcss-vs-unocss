@@ -6,7 +6,7 @@ export const dir = dirname(fileURLToPath(import.meta.url))
 
 export const targets = ['none', 'tailwindcss3', 'tailwindcss4', 'unocss']
 
-const pkgs = ['vite', 'unocss', 'tailwindcss', 'tailwindcss3']
+const pkgs = ['vite', 'unocss', 'tailwindcss4', 'tailwindcss3']
 
 export async function getVersions() {
   const versions = Object.fromEntries(
