@@ -1,5 +1,5 @@
 {
-  "packageManager": "pnpm@10.15.1",
+  "name": "benchmark-project",
   "scripts": {
     "bench": "node run.mjs"
   },
@@ -15,14 +15,13 @@
     "autoprefixer": "^10.4.16",
     "fs-extra": "^11.2.0",
     "local-pkg": "^1.1.2",
+    "markdown-table": "^3.0.4",
     "postcss": "^8.4.32",
     "tailwindcss": "^4.1.13",
     "tailwindcss3": "npm:tailwindcss@^3.4.17",
     "tailwindcss4": "npm:tailwindcss@^4.1.13",
     "unocss": "^66.5.1",
     "vite": "^7.1.5",
-    "vite-plugin-windicss": "^1.9.3",
-    "vue": "^3.3.9",
-    "windicss": "^3.5.6"
+    "vue": "^3.3.9"
   }
 }

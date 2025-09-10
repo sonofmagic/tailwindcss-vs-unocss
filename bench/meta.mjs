@@ -16,9 +16,10 @@ export const targets = [
 export const targetPkgMap = {
   'tailwindcss3': 'tailwindcss3',
   'tailwindcss4-postcss': '@tailwindcss/postcss',
-  'tailwindcss4-vite': '@tailwindcss/postcss',
+  'tailwindcss4-vite': '@tailwindcss/vite',
   'unocss-vite': 'unocss',
   'unocss-postcss': '@unocss/postcss',
+  'none': 'none',
 }
 
 const pkgs = [

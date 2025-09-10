@@ -102,10 +102,11 @@ async function report() {
     const d = delta.find(i => i[0] === name)[1]
     const slowdown = d / (fastest - baseTime)
     // add version
-    const version = versions[targetPkgMap[name]] ? `v${versions[targetPkgMap[name]]}` : ''
+    const pkgName = targetPkgMap[name]
+    const version = versions[pkgName] ? `v${versions[pkgName]}` : ''
     logs.push(
       [
-        name.padEnd(12, ' '),
+        pkgName.padEnd(24, ' '),
         (version).padEnd(14, ' '),
         `${t.toFixed(2).padStart(10, ' ')} ms /`,
         `delta.${d.toFixed(2).padStart(10, ' ')} ms`,
