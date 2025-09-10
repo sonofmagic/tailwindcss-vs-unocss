@@ -1,5 +1,15 @@
 {
   "name": "benchmark-project",
+  "private": true,
+  "author": "ice breaker <1324318532@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofmagic/tailwindcss-vs-unocss.git",
+    "directory": "bench"
+  },
+  "bugs": {
+    "url": "https://github.com/sonofmagic/tailwindcss-vs-unocss/issues"
+  },
   "scripts": {
     "bench": "node run.mjs"
   },
