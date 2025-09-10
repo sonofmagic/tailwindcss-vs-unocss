@@ -4,6 +4,7 @@
     "bench": "node run.mjs"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
     "@unocss/core": "^66.5.1",
     "@unocss/preset-uno": "^66.5.1",
     "@unocss/transformer-directives": "^66.5.1",
@@ -14,6 +15,7 @@
     "local-pkg": "^1.1.2",
     "postcss": "^8.4.32",
     "tailwindcss": "^4.1.13",
+    "tailwindcss3": "npm:tailwindcss@^3.4.17",
     "unocss": "^66.5.1",
     "vite": "^7.1.5",
     "vite-plugin-windicss": "^1.9.3",

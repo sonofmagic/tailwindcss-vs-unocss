@@ -25,7 +25,9 @@ function BuildTimePlugin(name) {
 }
 
 console.log('warming up...')
-for (let i = 0; i < 10; i++) { await run('none') }
+for (let i = 0; i < 10; i++) {
+  await run('none')
+}
 
 targets.sort(() => Math.random() - 0.5)
 

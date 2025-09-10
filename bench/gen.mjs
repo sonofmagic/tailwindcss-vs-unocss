@@ -43,7 +43,9 @@ const names = [
 function map(a, b, join = '-') {
   const classes = []
   for (const n of a) {
-    for (const t of b) { classes.push(n + join + t) }
+    for (const t of b) {
+      classes.push(n + join + t)
+    }
   }
   return classes
 }
@@ -65,7 +67,9 @@ export async function writeMock() {
       )
       .join('\n')
   }
-  if (!existsSync(join(dir, 'source'))) { await fs.mkdir(join(dir, 'source')) }
+  if (!existsSync(join(dir, 'source'))) {
+    await fs.mkdir(join(dir, 'source'))
+  }
   await fs.writeFile(join(dir, 'source/gen1.js'), content(), 'utf8')
   await fs.writeFile(join(dir, 'source/gen2.js'), content(), 'utf8')
   await fs.writeFile(join(dir, 'source/gen3.js'), content(), 'utf8')
@@ -98,6 +102,8 @@ export function shuffle(array) {
 
 export function chunk(array, size = 15) {
   const chunks = []
-  for (let i = 0; i < array.length; i += size) { chunks.push(array.slice(i, i + size)) }
+  for (let i = 0; i < array.length; i += size) {
+    chunks.push(array.slice(i, i + size))
+  }
   return chunks
 }

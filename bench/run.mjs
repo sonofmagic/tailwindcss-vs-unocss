@@ -24,7 +24,9 @@ async function run() {
 
 async function checkClasses() {
   for (const name of targets) {
-    if (name === 'none') { continue }
+    if (name === 'none') {
+      continue
+    }
     const dist = join(dir, 'fixtures', name, 'dist/assets')
     const file = (await fs.readdir(dist)).find(i => i.endsWith('.css'))
     const content = await fs.readFile(join(dist, file), 'utf8')

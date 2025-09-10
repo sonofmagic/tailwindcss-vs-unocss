@@ -5,6 +5,7 @@
     "bench": "node run.mjs"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
     "@unocss/core": "^66.5.1",
     "@unocss/postcss": "^66.5.1",
     "@vitejs/plugin-vue": "^6.0.1",
