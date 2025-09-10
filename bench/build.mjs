@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
-import { performance } from 'node:perf_hooks'
 import { join } from 'node:path'
+import { performance } from 'node:perf_hooks'
 import process from 'node:process'
 import fs from 'fs-extra'
 import { build } from 'vite'
@@ -20,12 +20,12 @@ function BuildTimePlugin(name) {
     },
     closeBundle() {
       result[name].time = performance.now() - start
-    }
+    },
   }
 }
 
 console.log('warming up...')
-for (let i = 0; i < 10; i++) await run('none')
+for (let i = 0; i < 10; i++) { await run('none') }
 
 targets.sort(() => Math.random() - 0.5)
 
@@ -42,9 +42,9 @@ async function run(target, bench = false) {
     root: cwd,
     logLevel: 'silent',
     build: {
-      minify: false
+      minify: false,
     },
-    plugins: bench ? [BuildTimePlugin(target)] : []
+    plugins: bench ? [BuildTimePlugin(target)] : [],
   })
 }
 

@@ -13,7 +13,7 @@ const variants = [
   'dark',
   'dark:hover:focus:first:active',
   ...sizes,
-  ...map(sizes, ['dark:hover:focus:first:active'], ':')
+  ...map(sizes, ['dark:hover:focus:first:active'], ':'),
 ]
 
 const names = [
@@ -23,8 +23,8 @@ const names = [
       ...Array.from({ length: 10 }, (_, i) => i.toString()),
       '[1px]',
       '[3vh]',
-      '[3.555em]'
-    ]
+      '[3.555em]',
+    ],
   ),
   ...map(
     ['text', 'bg', 'border'],
@@ -33,17 +33,17 @@ const names = [
       ...map(colors, ['10', '20'], '/'),
       '[#525343]',
       '[#124453]',
-      '[#942]'
-    ]
+      '[#942]',
+    ],
   ),
   ...map(['text', 'rounded'], [...sizes]),
-  ...map(['grid-cols'], ['1', '2', '[1fr_3em]', '[20px_min-content_1fr]'])
+  ...map(['grid-cols'], ['1', '2', '[1fr_3em]', '[20px_min-content_1fr]']),
 ]
 
 function map(a, b, join = '-') {
   const classes = []
   for (const n of a) {
-    for (const t of b) classes.push(n + join + t)
+    for (const t of b) { classes.push(n + join + t) }
   }
   return classes
 }
@@ -53,7 +53,7 @@ export const classes = [...names, ...map(variants, names, ':')]
 export async function writeMock() {
   const content = () =>
     `document.getElementById('app').innerHTML = \`${chunk(shuffle(classes))
-      .map((c) => `<div class="${c.join(' ')}" />`)
+      .map(c => `<div class="${c.join(' ')}" />`)
       .join('\n')}\``
   const contentCss = () => {
     return chunk(shuffle(classes))
@@ -61,18 +61,18 @@ export async function writeMock() {
         (c, i) =>
           `a${i} {
   @apply ${c.join(' ')};
-}`
+}`,
       )
       .join('\n')
   }
-  if (!existsSync(join(dir, 'source'))) await fs.mkdir(join(dir, 'source'))
+  if (!existsSync(join(dir, 'source'))) { await fs.mkdir(join(dir, 'source')) }
   await fs.writeFile(join(dir, 'source/gen1.js'), content(), 'utf8')
   await fs.writeFile(join(dir, 'source/gen2.js'), content(), 'utf8')
   await fs.writeFile(join(dir, 'source/gen3.js'), content(), 'utf8')
   await fs.writeFile(
     join(dir, 'source/gen.js'),
     'import "./gen1";import "./gen2";import "./gen3";',
-    'utf8'
+    'utf8',
   )
   await fs.writeFile(join(dir, 'source/gen.css'), contentCss(), 'utf8')
   return classes
@@ -98,7 +98,6 @@ export function shuffle(array) {
 
 export function chunk(array, size = 15) {
   const chunks = []
-  for (let i = 0; i < array.length; i += size)
-    chunks.push(array.slice(i, i + size))
+  for (let i = 0; i < array.length; i += size) { chunks.push(array.slice(i, i + size)) }
   return chunks
 }

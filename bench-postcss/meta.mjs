@@ -1,5 +1,5 @@
+import { dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { dirname, resolve } from 'node:path'
 import { getPackageInfo } from 'local-pkg'
 // import fs from 'fs-extra'
 
@@ -12,11 +12,11 @@ const pkgs = ['vite', 'unocss', 'tailwindcss']
 export async function getVersions() {
   const versions = Object.fromEntries(
     await Promise.all(
-      pkgs.map(async (i) => [
+      pkgs.map(async i => [
         i,
-        (await getPackageInfo(i))?.packageJson?.version
-      ])
-    )
+        (await getPackageInfo(i))?.packageJson?.version,
+      ]),
+    ),
   )
   // versions.unocss = (await fs.readJSON(resolve(dir, '../package.json'))).version
   return versions

@@ -1,5 +1,5 @@
 module.exports = {
   plugins: {
-    '@unocss/postcss': {}
-  }
+    '@unocss/postcss': {},
+  },
 }

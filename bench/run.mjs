@@ -1,10 +1,10 @@
 /* eslint-disable no-console */
 import { execSync } from 'node:child_process'
 import { join } from 'node:path'
-import fs from 'fs-extra'
 import { escapeSelector } from '@unocss/core'
-import { dir, getVersions, targets } from './meta.mjs'
+import fs from 'fs-extra'
 import { classes, writeMock } from './gen.mjs'
+import { dir, getVersions, targets } from './meta.mjs'
 
 const times = 200
 const metric = '75%' // average / min / 50% / 75% / 95% / 99%
@@ -24,11 +24,11 @@ async function run() {
 
 async function checkClasses() {
   for (const name of targets) {
-    if (name === 'none') continue
+    if (name === 'none') { continue }
     const dist = join(dir, 'fixtures', name, 'dist/assets')
-    const file = (await fs.readdir(dist)).find((i) => i.endsWith('.css'))
+    const file = (await fs.readdir(dist)).find(i => i.endsWith('.css'))
     const content = await fs.readFile(join(dist, file), 'utf8')
-    const lose = classes.filter((i) => !content.includes(escapeSelector(i)))
+    const lose = classes.filter(i => !content.includes(escapeSelector(i)))
     if (lose.length > 0) {
       console.log(name.padEnd(12), `${lose.length} unmatched`)
       console.log(lose)
@@ -40,7 +40,7 @@ async function report() {
   const result = await fs.readJSON(`${dir}/result.json`, [], { spaces: 2 })
 
   const average = targets.map((target) => {
-    const items = result.filter((i) => i.name === target)
+    const items = result.filter(i => i.name === target)
     const total = items.reduce((a, p) => a + p.time, 0)
     const average = total / items.length
     return [target, average]
@@ -49,14 +49,13 @@ async function report() {
   const minimum = targets.map((target) => {
     return [
       target,
-      result.filter((i) => i.name === target).sort((a, b) => a.time - b.time)[0]
-        .time
+      result.filter(i => i.name === target).sort((a, b) => a.time - b.time)[0].time,
     ]
   })
 
-  const percentile = (percent) =>
+  const percentile = percent =>
     targets.map((target) => {
-      const items = result.filter((i) => i.name === target)
+      const items = result.filter(i => i.name === target)
       const sorted = items.sort((a, b) => a.time - b.time)
       const index = Math.floor(sorted.length * percent)
       return [target, sorted[index].time]
@@ -69,14 +68,14 @@ async function report() {
   // base on what you want to compare
   const data = {
     average,
-    min: minimum,
+    'min': minimum,
     '50%': fifty,
     '75%': seventyFive,
     '95%': ninetyFive,
-    '99%': ninetyNine
+    '99%': ninetyNine,
   }[metric]
 
-  const baseTime = data.find((i) => i[0] === 'none')[1]
+  const baseTime = data.find(i => i[0] === 'none')[1]
   const fastest = data.sort((a, b) => a[1] - b[1])[1][1]
 
   const delta = data.map(([target, m]) => {
@@ -93,12 +92,12 @@ async function report() {
 
   logs.push(new Date().toLocaleString())
   logs.push(
-    `${classes.length} utilities | x${result.length / targets.length} runs (${metric} build time)`
+    `${classes.length} utilities | x${result.length / targets.length} runs (${metric} build time)`,
   )
   logs.push('')
 
   for (const [name, t] of data) {
-    const d = delta.find((i) => i[0] === name)[1]
+    const d = delta.find(i => i[0] === name)[1]
     const slowdown = d / (fastest - baseTime)
     logs.push(
       [
@@ -106,8 +105,8 @@ async function report() {
         (versions[name] ? `v${versions[name]}` : '').padEnd(14, ' '),
         `${t.toFixed(2).padStart(10, ' ')} ms /`,
         `delta.${d.toFixed(2).padStart(10, ' ')} ms`,
-        slowdown ? `(x${slowdown.toFixed(2)})` : ''
-      ].join(' ')
+        slowdown ? `(x${slowdown.toFixed(2)})` : '',
+      ].join(' '),
     )
   }
 
@@ -128,13 +127,13 @@ async function report() {
       ninetyFive: Object.fromEntries(ninetyFive),
       ninetyNine: Object.fromEntries(ninetyNine),
       delta: Object.fromEntries(delta),
-      runs: result
+      runs: result,
     },
-    { spaces: 2 }
+    { spaces: 2 },
   )
 
   await fs.writeFile(
     `${dir}/results/${date}.md`,
-    `\`\`\`\n${logs.join('\n')}\n\`\`\``
+    `\`\`\`\n${logs.join('\n')}\n\`\`\``,
   )
 }

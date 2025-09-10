@@ -54,7 +54,7 @@ windicss     v3.5.6            1742.45 ms / delta.   1708.46 ms (x5.25)
 2024/3/5 00:19:14
 1656 utilities | x200 runs (75% build time)
 
-none                             19.92 ms / delta.      0.00 ms 
+none                             19.92 ms / delta.      0.00 ms
 unocss       v0.58.5            328.39 ms / delta.    308.47 ms (x1.00)
 tailwindcss  v3.4.1             798.42 ms / delta.    778.49 ms (x2.52)
 ```
@@ -81,7 +81,7 @@ tailwindcss  v3.4.1             798.42 ms / delta.    778.49 ms (x2.52)
 2024/3/5 00:08:25
 1656 utilities | x200 runs (75% build time)
 
-none                             16.75 ms / delta.      0.00 ms 
+none                             16.75 ms / delta.      0.00 ms
 unocss       v0.58.5            679.51 ms / delta.    662.77 ms (x1.00)
 tailwindcss  v3.4.1             712.55 ms / delta.    695.80 ms (x1.05)
 ```
