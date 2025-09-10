@@ -4,7 +4,7 @@ import { join } from 'node:path'
 import { escapeSelector } from '@unocss/core'
 import fs from 'fs-extra'
 import { classes, writeMock } from './gen.mjs'
-import { dir, getVersions, targets } from './meta.mjs'
+import { dir, getVersions, targetPkgMap, targets } from './meta.mjs'
 
 const times = 200
 const metric = '75%' // average / min / 50% / 75% / 95% / 99%
@@ -101,10 +101,12 @@ async function report() {
   for (const [name, t] of data) {
     const d = delta.find(i => i[0] === name)[1]
     const slowdown = d / (fastest - baseTime)
+    // add version
+    const version = versions[targetPkgMap[name]] ? `v${versions[targetPkgMap[name]]}` : ''
     logs.push(
       [
         name.padEnd(12, ' '),
-        (versions[name] ? `v${versions[name]}` : '').padEnd(14, ' '),
+        (version).padEnd(14, ' '),
         `${t.toFixed(2).padStart(10, ' ')} ms /`,
         `delta.${d.toFixed(2).padStart(10, ' ')} ms`,
         slowdown ? `(x${slowdown.toFixed(2)})` : '',

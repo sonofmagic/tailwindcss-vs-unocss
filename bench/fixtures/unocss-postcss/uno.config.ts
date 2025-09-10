@@ -1,6 +1,6 @@
-import presetUno from '@unocss/preset-uno'
 import transformerDirectives from '@unocss/transformer-directives'
 import { defineConfig } from 'unocss'
+import presetWind3 from 'unocss/preset-wind3'
 
 export default defineConfig({
   mergeSelectors: false,
@@ -9,6 +9,6 @@ export default defineConfig({
       include: [/\.js$/],
     },
   },
-  presets: [presetUno()],
+  presets: [presetWind3()],
   transformers: [transformerDirectives()],
 })
