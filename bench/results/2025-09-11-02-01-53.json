@@ -1,0 +1,7271 @@
+{
+  "time": "2025-09-11T02:01:53.221Z",
+  "versions": {
+    "vite": "7.1.5",
+    "unocss": "66.5.1",
+    "@unocss/postcss": "66.5.1",
+    "@tailwindcss/vite": "4.1.13",
+    "@tailwindcss/postcss": "4.1.13",
+    "tailwindcss3": "3.4.17",
+    "tailwindcss4": "4.1.13"
+  },
+  "utilities": 1656,
+  "minimum": {
+    "none": 10.715832999999975,
+    "tailwindcss3": 625.9390420000001,
+    "tailwindcss4-postcss": 273.57000000000016,
+    "tailwindcss4-vite": 228.87412499999994,
+    "unocss-vite": 274.397958,
+    "unocss-postcss": 525.3500839999999
+  },
+  "average": {
+    "none": 14.271036894999984,
+    "tailwindcss3": 732.7071416699999,
+    "tailwindcss4-postcss": 364.0251964349999,
+    "tailwindcss4-vite": 265.735693335,
+    "unocss-vite": 343.75455479,
+    "unocss-postcss": 790.2836537499995
+  },
+  "fifty": {
+    "none": 13.006167000000005,
+    "tailwindcss3": 700.0041249999999,
+    "tailwindcss4-postcss": 333.0431659999999,
+    "tailwindcss4-vite": 252.61337500000002,
+    "unocss-vite": 334.52662499999997,
+    "unocss-postcss": 845.749666
+  },
+  "seventyFive": {
+    "none": 14.421542000000045,
+    "tailwindcss4-vite": 268.900584,
+    "unocss-vite": 362.07875,
+    "tailwindcss4-postcss": 438.628958,
+    "tailwindcss3": 739.271334,
+    "unocss-postcss": 912.326708
+  },
+  "ninetyFive": {
+    "none": 21.265957999999955,
+    "tailwindcss3": 953.2189170000001,
+    "tailwindcss4-postcss": 509.782833,
+    "tailwindcss4-vite": 337.4859580000002,
+    "unocss-vite": 444.8823749999997,
+    "unocss-postcss": 1141.878333
+  },
+  "ninetyNine": {
+    "none": 38.636167000000114,
+    "tailwindcss3": 1340.854167,
+    "tailwindcss4-postcss": 671.3302089999997,
+    "tailwindcss4-vite": 478.7235419999997,
+    "unocss-vite": 647.883875,
+    "unocss-postcss": 1663.6117920000002
+  },
+  "delta": {
+    "none": 0,
+    "tailwindcss4-vite": 254.47904199999994,
+    "unocss-vite": 347.65720799999997,
+    "tailwindcss4-postcss": 424.20741599999997,
+    "tailwindcss3": 724.849792,
+    "unocss-postcss": 897.905166
+  },
+  "runs": [
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 865.602208
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 257.61020800000006
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 299.5825
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 901.9282500000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 302.3102920000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:51:14.638Z",
+      "time": 11.774208000000272
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 1208.843791
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 356.2530419999998
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 249.63033400000018
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 809.528875
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 13.084707999999864
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:17.946Z",
+      "time": 345.0736670000001
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 371.11312499999997
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 788.9475
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 584.3226670000001
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 15.725708999999824
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 281.50504200000023
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:21.436Z",
+      "time": 297.58616600000005
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 684.832458
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 355.20904199999995
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 322.91370800000004
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 272.0044170000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 894.7772500000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:51:24.656Z",
+      "time": 26.41775000000007
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 248.713208
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 800.7695420000001
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 14.383417000000009
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 297.1494160000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 963.423875
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:27.968Z",
+      "time": 286.10183300000017
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 255.080958
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 463.60412499999995
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 690.6522500000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 899.6907080000001
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 12.662374999999884
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:31.213Z",
+      "time": 285.03158299999996
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 742.694375
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 14.539832999999817
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 250.55170900000007
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 328.8165409999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 293.155209
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:34.444Z",
+      "time": 585.9089170000002
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 243.67854099999994
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 11.025957999999946
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 701.593166
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 307.4819580000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 404.15633300000036
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:37.519Z",
+      "time": 549.1922500000001
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 710.932625
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 881.9660409999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 328.90650000000005
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 254.52091599999994
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 286.77416700000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:51:40.600Z",
+      "time": 11.925375000000258
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 335.816834
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 11.286000000000058
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 248.84474999999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 746.4761250000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 562.955125
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:43.556Z",
+      "time": 286.97241699999995
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 247.21325000000002
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 14.342708000000016
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 664.0797909999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 294.2500829999999
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 393.72579199999973
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:46.532Z",
+      "time": 547.054208
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 14.421542000000045
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 705.177083
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 420.99875
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 236.629459
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 332.239834
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:49.546Z",
+      "time": 584.2414170000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 12.617707999999993
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 667.915375
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 410.46408399999996
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 340.0240410000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 562.9817090000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:52.585Z",
+      "time": 243.89125000000013
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 446.33470900000003
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 274.66470900000013
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 1045.274
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 391.1904589999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 833.3850000000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:51:55.561Z",
+      "time": 17.649667000000136
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 16.44108300000005
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 360.024
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 772.39625
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 248.3207500000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 290.6061669999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:51:59.122Z",
+      "time": 647.7094999999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 465.91287500000004
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 11.347332999999935
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 924.3466249999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 751.0911249999999
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 286.0372910000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:02.325Z",
+      "time": 323.0155420000001
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 939.764417
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 288.37175
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 348.68433400000004
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 732.228834
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 240.25999999999976
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:05.556Z",
+      "time": 12.134584000000359
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 684.6555
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 14.213457999999946
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 365.481542
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 247.76220899999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 555.008875
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:08.577Z",
+      "time": 286.6082500000002
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 891.2139169999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 706.037458
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 15.3042089999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 284.97512500000016
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 334.2442079999996
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:11.540Z",
+      "time": 237.25287500000013
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 251.28187500000007
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 656.789667
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 871.0491250000002
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 287.6798749999998
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 13.634166999999707
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:14.452Z",
+      "time": 293.90983400000005
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 12.41420800000003
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 666.9575
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 884.4363329999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 280.18049999999994
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 354.4715000000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:17.453Z",
+      "time": 243.30224999999973
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 469.163625
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 672.7296660000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 236.84950000000003
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 936.0985419999997
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 295.67745799999966
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:20.380Z",
+      "time": 11.93829199999982
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 936.890125
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 245.1356249999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 714.3719169999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 287.6402499999999
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 12.934249999999793
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:23.519Z",
+      "time": 322.945416
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 247.88837499999994
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 323.1882499999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 351.06041600000003
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 686.6165829999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 565.2453329999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:26.531Z",
+      "time": 13.525375000000167
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 455.670958
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 663.0760000000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 983.6112089999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 337.4859580000002
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 16.648875000000317
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:29.791Z",
+      "time": 300.6004589999998
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 13.061125000000004
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 670.624209
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 340.858291
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 333.0431659999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 243.72770900000023
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:33.029Z",
+      "time": 688.5712920000001
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 12.949457999999993
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 450.363792
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 855.3547910000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 240.43220799999995
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 279.46524999999974
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:36.068Z",
+      "time": 727.6014169999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 263.57325000000003
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 860.060958
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 316.39358300000004
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 307.83950000000004
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 702.9882910000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:39.092Z",
+      "time": 11.852832999999919
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 449.22574999999995
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 677.382666
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 402.17729099999997
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 594.9968749999998
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 247.11749999999984
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:42.211Z",
+      "time": 11.29491599999983
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 444.007167
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 235.287416
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 703.3027079999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 406.1578749999999
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 551.7700409999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:45.343Z",
+      "time": 11.86075000000028
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 258.59487499999994
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 11.306834000000094
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 336.777417
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 814.2044170000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 324.6751669999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:48.500Z",
+      "time": 606.5586670000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 11.880040999999949
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 255.82295900000008
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 715.0025
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 347.4221249999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 594.687375
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:51.746Z",
+      "time": 296.867209
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 20.68704200000002
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 737.3441670000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 446.09950000000003
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 1226.6734169999997
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 319.18629199999987
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:54.858Z",
+      "time": 382.88870799999995
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 739.271334
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 257.6176660000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 347.3738330000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 309.39420800000016
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 592.4152080000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:52:58.562Z",
+      "time": 14.040457999999944
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 951.0247909999998
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 14.603458000000046
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 299.8215
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 721.9500419999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 250.20391699999982
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:01.779Z",
+      "time": 294.79541700000027
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 327.502917
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 12.507417000000032
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 737.8373339999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 334.0507499999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 299.54995800000006
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:04.804Z",
+      "time": 552.8189579999998
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 14.960916999999995
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 911.662292
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 719.2416250000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 323.91633400000023
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 259.425291
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:07.967Z",
+      "time": 292.80829200000016
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 454.411541
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 675.510292
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 240.75370799999996
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 413.4303329999998
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 11.645207999999911
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:10.976Z",
+      "time": 572.292625
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 457.03137499999997
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 240.64466700000014
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 327.23299999999995
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 11.92141700000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 602.6209999999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:14.112Z",
+      "time": 689.8768750000004
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 456.585167
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 657.0749589999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 412.72458300000017
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 241.63858299999993
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 15.564417000000049
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:17.162Z",
+      "time": 563.9149590000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 15.66737500000005
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 254.30041599999993
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 698.436166
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 330.3050830000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 330.61850000000004
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:20.343Z",
+      "time": 562.0515409999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 920.6513750000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 244.9760409999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 746.1507920000001
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 15.180125000000317
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 334.63870899999984
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:23.421Z",
+      "time": 286.93208400000003
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 13.014791000000002
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 742.7631670000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 447.84725000000003
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 235.94562499999984
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 338.52608299999974
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:26.480Z",
+      "time": 588.963416
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 248.826958
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 316.11866699999996
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 817.3356669999998
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 285.82441700000004
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 680.0241249999999
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:53:29.611Z",
+      "time": 11.504334000000199
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 16.297916999999984
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 262.44875
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 704.023375
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 845.9832079999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 350.57166700000016
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:32.647Z",
+      "time": 317.6569159999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 248.06829200000004
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 11.067041000000017
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 818.643792
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 693.747167
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 289.18754100000024
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:35.798Z",
+      "time": 282.55499999999984
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 12.610374999999976
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 883.6682910000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 275.0772499999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 243.33495799999992
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 745.069459
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:38.758Z",
+      "time": 283.9541250000002
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 678.0908750000001
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 855.4234999999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 243.3964169999997
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 283.31958299999997
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 289.4372080000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:53:41.677Z",
+      "time": 11.462208999999802
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 438.628958
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 11.398707999999942
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 232.94166599999994
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 329.266083
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 668.5117499999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:44.527Z",
+      "time": 538.728959
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 336.36237499999993
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 547.904542
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 238.499417
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 301.05770899999993
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 689.9695839999999
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:53:47.445Z",
+      "time": 13.006167000000005
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 257.75374999999997
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 324.44562500000006
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 687.0472500000001
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 12.074416999999812
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 587.3760000000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:50.394Z",
+      "time": 278.2396670000003
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 451.730834
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 859.252042
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 281.47425
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 256.5385410000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 686.4941669999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:53:53.374Z",
+      "time": 13.967083000000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 12.678459000000032
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 1043.968083
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 1004.485291
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 350.41929200000004
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 321.4027920000003
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:53:56.444Z",
+      "time": 302.57583300000033
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 919.947917
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 14.30724999999984
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 641.6589999999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 325.9409159999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 346.3794160000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:00.024Z",
+      "time": 251.051375
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 267.5840830000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 346.9977499999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 879.605
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 875.1173330000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 289.6550830000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:03.046Z",
+      "time": 13.753833999999642
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 347.801458
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 256.76641700000005
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 330.742667
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 657.7464580000003
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 13.871000000000095
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:06.430Z",
+      "time": 594.501667
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 14.454625000000021
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 687.9526659999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 883.59575
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 326.1295419999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 251.06362500000023
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:09.389Z",
+      "time": 295.6744999999996
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 333.4409169999999
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 525.3500839999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 277.14537500000006
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 10.715832999999975
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 685.1557500000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:12.333Z",
+      "time": 290.5327910000001
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 895.3035
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 13.413791000000174
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 666.888958
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 249.30395799999997
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 278.53499999999985
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:15.253Z",
+      "time": 333.43379200000027
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 255.96875
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 317.4258330000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 825.9422910000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 412.1089159999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 722.6852910000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:18.190Z",
+      "time": 13.563583999999992
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 252.93304099999995
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 825.321917
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 298.4234999999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 705.0836670000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 287.80445899999995
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:21.377Z",
+      "time": 12.365749999999935
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 446.27250000000004
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 845.749666
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 235.85370799999987
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 281.27108299999986
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 811.058458
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:24.351Z",
+      "time": 38.390750000000025
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 270.4045
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 336.91608299999984
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 687.6859159999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 426.01895799999966
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 596.4644170000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:27.585Z",
+      "time": 13.049208999999792
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 482.469125
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 698.6832499999999
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 12.773374999999987
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 531.1515420000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 559.653667
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:30.768Z",
+      "time": 240.84954199999993
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 347.17220900000007
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 11.751165999999898
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 817.5726250000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 352.16433400000005
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 251.89200000000028
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:34.040Z",
+      "time": 613.787417
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 1043.678958
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 311.81041600000003
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 402.5778750000002
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 279.273334
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 953.2189170000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:37.159Z",
+      "time": 15.273499999999785
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 260.108292
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 849.7297090000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 302.9831670000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 324.206375
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 665.6734160000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:40.669Z",
+      "time": 11.821584000000257
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 253.81545900000003
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 326.177875
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 314.72387500000013
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 535.5354590000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 649.787417
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:43.708Z",
+      "time": 11.154958000000079
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 451.6095
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 638.0710000000001
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 14.150833999999804
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 235.05008399999997
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 397.43329200000016
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:46.645Z",
+      "time": 579.7684160000003
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 347.4709999999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 486.309166
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 557.7891669999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 248.00208299999986
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 694.4227920000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:49.697Z",
+      "time": 12.856584000000112
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 12.194958999999983
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 241.73254199999997
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 826.1178749999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 288.28670799999986
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 703.5559170000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:52.853Z",
+      "time": 274.2945829999999
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 357.80266700000004
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 779.2520000000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 274.6698329999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 341.617792
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 802.606209
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:55.787Z",
+      "time": 21.265957999999955
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 365.0412919999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 320.0384589999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 332.6388340000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 671.3129160000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 614.5395840000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:54:59.146Z",
+      "time": 12.007707999999639
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 509.782833
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 709.8655000000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 328.77499999999986
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 11.362916999999925
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 555.2110420000004
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:02.297Z",
+      "time": 328.96900000000005
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 12.852374999999995
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 334.45233300000007
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 723.046667
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 254.65937500000018
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 284.20074999999997
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:05.517Z",
+      "time": 602.0225829999999
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 337.3620830000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 242.8988750000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 668.8085409999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 544.6291249999999
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 12.287834000000203
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:08.497Z",
+      "time": 286.15224999999964
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 340.060708
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 12.545999999999935
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 650.2516250000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 534.2044580000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 350.84583299999986
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:11.381Z",
+      "time": 246.30237499999976
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 452.13283299999995
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 667.226542
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 241.82958399999984
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 11.152291999999989
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 427.75904200000014
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:14.265Z",
+      "time": 564.6525839999999
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 12.134083999999973
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 687.518875
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 411.6322499999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 236.81795799999986
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 335.9185
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:17.424Z",
+      "time": 678.3197500000001
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 659.15175
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 910.529042
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 323.66212499999983
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 310.97133299999996
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 244.32108400000016
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:20.519Z",
+      "time": 11.292957999999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 451.58704200000005
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 655.5343750000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 1014.617958
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 248.05712500000027
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 288.55533400000013
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:23.489Z",
+      "time": 12.159666000000016
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 672.1017919999999
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 868.958333
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 250.806875
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 287.3947909999997
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 12.416959000000134
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:26.602Z",
+      "time": 289.9955839999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 361.656792
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 252.583083
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 664.3488340000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 293.3387499999999
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 17.584334000000126
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:29.470Z",
+      "time": 620.3303329999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 279.348208
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 12.20620800000006
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 327.03616599999987
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 571.4845
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 289.4575829999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:32.436Z",
+      "time": 827.5859999999998
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 12.257082999999966
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 683.297833
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 897.6690840000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 274.397958
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 246.84304099999963
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:35.593Z",
+      "time": 289.22325
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 13.211374999999975
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 684.661959
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 249.87362499999995
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 815.0307500000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 284.9579169999997
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:38.492Z",
+      "time": 288.37266699999964
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 354.11912499999994
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 711.009875
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 552.342416
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 358.8874169999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 320.0565409999999
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:41.444Z",
+      "time": 13.530833999999686
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 354.052375
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 253.24241699999993
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 330.8681670000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 730.1192080000003
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 632.7317080000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:44.558Z",
+      "time": 13.48616600000014
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 259.236208
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 677.220667
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 898.6277499999999
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 16.27337499999976
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 374.15204200000016
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:47.749Z",
+      "time": 296.692458
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 259.56716600000004
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 329.92941699999994
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 639.845167
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 427.83766700000024
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 540.002708
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:50.906Z",
+      "time": 12.026833000000352
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 13.938416000000018
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 740.491667
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 457.465833
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 888.4667500000003
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 280.149042
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:53.949Z",
+      "time": 299.3275000000003
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 466.943125
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 649.84775
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 236.69054200000005
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 952.7250000000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 318.9602500000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:55:57.120Z",
+      "time": 11.275916000000052
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 12.687208999999996
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 690.537916
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 880.3242909999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 325.34616600000004
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 304.3960840000004
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:00.312Z",
+      "time": 280.96425
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 458.07825
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 11.790291999999909
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 281.070875
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 681.475375
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 414.98504200000025
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:03.279Z",
+      "time": 578.1639170000003
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 895.957375
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 648.59275
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 242.42766700000016
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 285.0104580000002
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 13.087417000000187
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:06.514Z",
+      "time": 293.07595900000024
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 352.769083
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 385.40700000000004
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 815.802833
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 244.65625
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 616.8344579999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:56:09.400Z",
+      "time": 12.341167000000041
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 13.121832999999981
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 976.4639160000002
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 778.5685840000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 338.47212500000023
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 377.08916599999975
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:12.568Z",
+      "time": 308.03579100000024
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 690.482375
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 925.2026249999999
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 14.646874999999909
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 252.69341699999995
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 292.9749999999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:15.855Z",
+      "time": 296.294167
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 12.757292000000007
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 717.029625
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 475.91329199999996
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 400.72849999999994
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 292.7957080000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:18.840Z",
+      "time": 641.307292
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 439.000042
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 268.900584
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 638.2982499999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 317.8355409999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 753.2078750000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:56:22.149Z",
+      "time": 12.779625000000124
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 904.628917
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 356.6792090000001
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 13.391250000000127
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 580.9851669999998
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 1482.5524169999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:25.585Z",
+      "time": 309.97916699999996
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 13.411208999999985
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 480.99775
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 730.2966250000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 372.17887500000006
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 242.29033299999992
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:29.862Z",
+      "time": 676.3065419999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 412.546208
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 244.99237500000004
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 322.954667
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 617.8302920000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 706.9278340000001
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:56:33.157Z",
+      "time": 14.769166999999925
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 12.268624999999986
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 890.0270830000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 342.61079199999995
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 250.35574999999994
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 292.0885420000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:36.313Z",
+      "time": 731.6489579999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 912.326708
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 11.81962499999986
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 664.0291669999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 321.49241600000005
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 256.70329200000015
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:39.287Z",
+      "time": 284.00687500000004
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 1096.763708
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 388.893292
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 13.953666999999996
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 756.33175
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 410.05279199999995
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:42.198Z",
+      "time": 321.51150000000007
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 1274.356333
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 344.3922499999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 1340.854167
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 13.175915999999688
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 367.120625
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:45.663Z",
+      "time": 671.3302089999997
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 762.8355829999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 694.327667
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 1602.48825
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 25.09995899999967
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 305.62229100000013
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:50.521Z",
+      "time": 328.42620799999986
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 1663.6117920000002
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 17.81404100000009
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 1199.519459
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 597.2825419999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 320.79883400000017
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:54.753Z",
+      "time": 313.17541699999947
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 1134.05775
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 303.9599999999998
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 1129.5675419999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 365.3407079999997
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 11.644124999999804
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:56:59.473Z",
+      "time": 397.93070799999987
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 298.20975
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 17.102750000000015
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 1141.878333
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 775.9990000000003
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 305.83050000000003
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:03.629Z",
+      "time": 360.38650000000007
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 258.825334
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 11.354208000000085
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 877.687834
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 726.261209
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 305.2579999999998
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:07.214Z",
+      "time": 295.16158399999995
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 769.840792
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 18.402333999999883
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 437.96741599999996
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 1019.8703329999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 339.87229100000013
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:10.323Z",
+      "time": 262.75754199999983
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 696.039209
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 15.117792000000009
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 245.71495800000002
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 336.4547920000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 562.7909999999997
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:13.651Z",
+      "time": 285.5242079999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 975.073291
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 14.609707999999955
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 253.45112500000005
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 353.07233300000007
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 713.8367920000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:16.652Z",
+      "time": 305.6329999999998
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 273.6065
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 338.76862499999993
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 970.3744580000002
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 781.7295840000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 292.5688329999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:57:19.830Z",
+      "time": 11.835667000000285
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 386.710458
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 255.99341700000014
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 12.484124999999949
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 559.6149580000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 709.3867910000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:23.226Z",
+      "time": 315.9613750000003
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 472.817625
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 673.0034580000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 991.2976659999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 297.40266699999984
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 240.29241699999966
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:57:26.287Z",
+      "time": 13.300459000000046
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 349.71741599999996
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 774.699042
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 18.713584000000083
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 682.7179580000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 371.12866699999995
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:29.441Z",
+      "time": 322.55054199999995
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 337.68620799999997
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 11.32791700000007
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 262.6189999999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 716.8233329999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 846.2835410000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:32.711Z",
+      "time": 353.48612500000036
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 687.471542
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 351.4832909999998
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 861.8742910000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 727.6930830000001
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 22.201042000000143
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:36.042Z",
+      "time": 499.10287500000004
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 276.0927919999999
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 1040.586583
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 381.62308299999995
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 320.4644580000004
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 687.1349170000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:57:39.986Z",
+      "time": 11.480082999999922
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 713.624041
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 423.0917079999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 234.176917
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 328.10929199999964
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 13.718249999999898
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:43.588Z",
+      "time": 563.301042
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 243.41779199999996
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 11.161666999999966
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 673.5831670000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 285.974958
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 400.3542500000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:46.646Z",
+      "time": 574.6393330000001
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 467.7204580000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 357.63433299999997
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 584.5377920000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 239.36670800000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 712.8111250000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:57:49.658Z",
+      "time": 24.3311249999997
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 539.944667
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 13.174208000000021
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 1059.546916
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 948.0663750000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 376.1485419999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:52.803Z",
+      "time": 248.5006669999998
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 515.494916
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 383.3844999999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 1015.1339579999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 647.883875
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 1328.5878750000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:57:56.546Z",
+      "time": 25.339124999999513
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 17.81016699999998
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 353.34225000000004
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 581.6939169999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 700.8207909999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 256.1223749999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:01.412Z",
+      "time": 289.75054199999977
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 14.546625000000006
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 994.6168749999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 1034.2527919999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 495.33616600000005
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 355.417375
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:04.431Z",
+      "time": 274.7266669999999
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 978.66725
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 288.38862500000005
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 12.766958999999815
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 719.3558750000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 266.67562499999985
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:08.136Z",
+      "time": 306.32395799999995
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 697.697334
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 908.0097499999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 259.98974999999973
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 284.87695799999983
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 11.312790999999834
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:11.243Z",
+      "time": 281.7306659999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 249.63795799999997
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 667.4045419999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 333.1385829999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 286.1857080000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 556.9712909999998
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:58:14.195Z",
+      "time": 15.891583000000082
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 13.225000000000023
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 245.934167
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 849.5872499999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 850.0458330000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 292.9332079999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:17.148Z",
+      "time": 306.2455
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 13.132915999999966
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 720.222959
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 266.3610839999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 817.955792
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 305.6981249999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:20.373Z",
+      "time": 299.25724999999966
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 902.2964999999999
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 12.768625000000156
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 715.095583
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 249.83991600000013
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 336.27895899999976
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:23.413Z",
+      "time": 300.6506250000002
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 264.96787500000005
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 12.06370800000002
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 702.8209589999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 1144.188625
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 300.0612080000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:26.418Z",
+      "time": 308.8986249999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 952.3877090000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 339.343167
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 407.13366699999983
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 349.339958
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 713.857833
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:58:29.840Z",
+      "time": 19.167582999999922
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 552.307083
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 650.7932500000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 508.7974160000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 267.3536250000002
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 11.163208999999824
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:33.120Z",
+      "time": 584.2549999999997
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 339.36633399999994
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 586.0182500000001
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 13.782707999999957
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 658.753459
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 249.2353750000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:36.467Z",
+      "time": 279.1546669999998
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 348.8567919999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 734.2725420000002
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 601.1785
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 13.327665999999681
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 276.9483330000003
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:39.396Z",
+      "time": 277.87725
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 452.18391699999995
+    },
+    {
+      "index": 1,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 357.19975
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 240.67645900000002
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 557.2379170000002
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 12.240999999999985
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:42.414Z",
+      "time": 683.3707089999998
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 247.60029199999997
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 320.97745800000007
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 862.651625
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 343.7436670000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 755.2827079999997
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:58:45.459Z",
+      "time": 16.98695799999996
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 13.005041000000006
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 262.6452499999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 688.7335410000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 395.28604100000007
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 409.00933299999997
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:48.661Z",
+      "time": 545.8976670000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 11.953624999999988
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 304.3163330000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 349.16395799999987
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 697.0469580000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 299.2416250000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:51.878Z",
+      "time": 589.708083
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 256.6569169999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 644.997625
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 1240.5508750000001
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 20.382125000000087
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 415.8026249999998
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:55.038Z",
+      "time": 699.4954579999999
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 12.911082999999962
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 793.587041
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 1011.419167
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 295.6290409999997
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 439.24395900000036
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:58:59.013Z",
+      "time": 394.0226660000003
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 339.92154199999993
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 13.21516599999984
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 697.0621249999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 328.5448339999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 572.2584999999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:02.499Z",
+      "time": 334.4024999999997
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 12.85166700000002
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 252.68574999999998
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 330.14824999999996
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 727.26325
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 681.6801249999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:05.534Z",
+      "time": 307.60895900000014
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 339.848208
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 249.09408399999984
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 311.75625000000014
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 648.7597499999997
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 18.873207999999977
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:08.703Z",
+      "time": 612.590459
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 881.507167
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 340.3607920000002
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 237.17045800000005
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 295.9190000000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 701.9194580000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:59:11.642Z",
+      "time": 12.885083000000122
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 243.47541700000005
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 882.8463330000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 673.6665840000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 308.2199169999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 288.0494999999996
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:59:14.563Z",
+      "time": 13.218000000000302
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 445.1820000000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 233.1400829999999
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 334.52662499999997
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 658.2210419999999
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 11.467333000000053
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:17.586Z",
+      "time": 674.0638749999998
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 12.680709000000036
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 462.238416
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 852.6054170000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 277.41270800000007
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 252.32058300000017
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:20.679Z",
+      "time": 657.0192499999998
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 12.474665999999957
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 665.510959
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 266.264625
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 330.1806670000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 281.9992080000002
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:23.672Z",
+      "time": 567.5497920000003
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 447.46137500000003
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 625.9390420000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 234.91104199999995
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 998.8504999999998
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 12.885708999999679
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:26.602Z",
+      "time": 290.50929199999973
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 337.66829199999995
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 11.912290999999982
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 245.68337500000007
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 675.7952910000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 284.3565829999998
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:29.713Z",
+      "time": 614.187833
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 922.835167
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 12.650041999999985
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 670.7620830000001
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 282.96445900000003
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 359.167958
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:32.639Z",
+      "time": 374.47279100000014
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 898.846542
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 248.27837499999987
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 13.94512500000019
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 335.117833
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 363.16654199999994
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:35.714Z",
+      "time": 710.7018750000002
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 272.12595799999997
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 709.9563750000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 903.7735
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 317.54616699999997
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 325.38129100000015
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T01:59:39.323Z",
+      "time": 63.64479200000005
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 25.679417
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 934.136833
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 1688.6592090000001
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 267.77029100000027
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 303.2553329999996
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:42.674Z",
+      "time": 305.448625
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 252.61337500000002
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 332.024041
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 670.279084
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 11.686416000000008
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 398.9620829999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:46.875Z",
+      "time": 572.9440829999999
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 470.6389589999999
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 13.790291999999909
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 1093.6205000000002
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 351.82833299999993
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 247.12729200000012
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:49.953Z",
+      "time": 633.331917
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 12.644624999999962
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 462.60275
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 894.911583
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 694.0518340000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 304.79945899999984
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:53.570Z",
+      "time": 244.80037500000026
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 12.898916999999983
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 786.7749159999998
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 431.53987499999994
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 888.45425
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 237.25233300000036
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:56.673Z",
+      "time": 321.59225000000015
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 787.6629580000001
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 958.6976250000002
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 12.526292000000012
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 349.6203340000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 334.4388750000003
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T01:59:59.811Z",
+      "time": 246.86429099999987
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 14.313499999999976
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 698.2801670000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 888.6459159999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 335.70020899999986
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 320.64166699999987
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:03.004Z",
+      "time": 275.86479099999997
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 244.07987500000002
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 321.40100000000007
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 666.896917
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 450.09970799999974
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 631.9568330000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:00:06.039Z",
+      "time": 11.4953330000003
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 13.728834000000006
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 792.011708
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 256.07620799999995
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 342.4825000000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 309.2154580000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:09.291Z",
+      "time": 707.4557909999999
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 451.855375
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 646.655
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 1035.0171249999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 329.26187500000015
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 478.7235419999997
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:00:12.555Z",
+      "time": 16.24350000000004
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 503.653958
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 685.027834
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 17.95183300000008
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 252.87175000000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 414.6594580000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:16.032Z",
+      "time": 578.7096660000002
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 12.347667000000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 674.865625
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 570.5054579999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 268.126708
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 335.6865409999996
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:19.268Z",
+      "time": 656.9327499999999
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 13.24366699999996
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 294.65975000000003
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 318.09558400000003
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 350.1895000000002
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 700.0041249999999
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:22.553Z",
+      "time": 698.421417
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 705.2119170000001
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 16.76491699999997
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 365.9074579999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 277.4068749999999
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 567.044042
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:25.810Z",
+      "time": 301.0532910000002
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 427.0489170000001
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 421.7281250000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 279.0368329999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 711.4417079999998
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 20.642957999999908
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:28.862Z",
+      "time": 610.0464590000001
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 265.3679589999999
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 333.98029199999996
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 680.8057079999999
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 12.575124999999844
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 914.3737920000001
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:32.324Z",
+      "time": 444.8823749999997
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 345.28883400000007
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 243.660083
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 319.96904199999994
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 760.7104160000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 974.3337920000004
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:00:35.656Z",
+      "time": 18.132458000000042
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 13
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 776.5067080000001
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 1179.1906670000003
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 263.7710830000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 349.0220410000002
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:39.158Z",
+      "time": 292.0455830000001
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 889.8232919999999
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 13.580582999999933
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 244.3991249999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 295.6372080000001
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 649.766709
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:42.530Z",
+      "time": 288.5663330000002
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 444.33062500000005
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 228.87412499999994
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 804.6969159999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 286.16641700000014
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 38.636167000000114
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:45.409Z",
+      "time": 682.612791
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 12.551750000000027
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 884.194583
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 645.7347499999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 402.89025000000015
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 254.42783299999974
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:48.389Z",
+      "time": 298.53587500000003
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 245.568709
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 313.698709
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 874.100709
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 301.85091699999975
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 673.1255410000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:00:51.372Z",
+      "time": 10.81554099999994
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 251.07091600000007
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 337.146083
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 858.6157500000002
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 692.9710830000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 384.67091600000003
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:00:54.376Z",
+      "time": 13.624165999999605
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 925.824333
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 249.52929099999983
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 304.998208
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 720.935416
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 14.888666999999714
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:00:57.603Z",
+      "time": 367.054666
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 13.234124999999949
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 942.6244999999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 651.430666
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 327.1997080000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 317.15641700000015
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:00.696Z",
+      "time": 297.6582089999997
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 13.124833000000024
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 776.0650420000002
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 624.9913329999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 264.9575830000001
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 357.440208
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:03.707Z",
+      "time": 566.038916
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 362.07875
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 592.3073750000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 250.93779199999994
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 13.905874999999924
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 303.46116699999993
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:07.233Z",
+      "time": 727.8366659999997
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 665.370791
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 13.035624999999982
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 433.35004200000003
+    },
+    {
+      "index": 3,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 916.3488330000002
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 288.735917
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:10.263Z",
+      "time": 242.73537499999975
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 390.12366600000007
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 335.13083299999994
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 666.583791
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 395.3363750000003
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 557.8381250000002
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:01:13.266Z",
+      "time": 11.130415999999968
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 443.849167
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 11.244832999999971
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 657.065167
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 331.8421249999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 244.30908399999998
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:16.476Z",
+      "time": 553.926833
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 753.789083
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 258.0247079999999
+    },
+    {
+      "index": 2,
+      "name": "none",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 12.8756249999999
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 328.6487090000003
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 551.5067920000001
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:19.444Z",
+      "time": 282.7333749999998
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 250.536583
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 892.106167
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 665.2025409999999
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 11.575417000000016
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 291.2819159999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:22.456Z",
+      "time": 274.37154199999986
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 868.3131249999999
+    },
+    {
+      "index": 1,
+      "name": "none",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 14.61324999999988
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 341.15758299999993
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 244.941417
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 281.6155839999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:25.457Z",
+      "time": 699.6855
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 285.8454160000001
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 856.4657499999998
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 285.1104999999998
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 317.8244159999999
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 674.4033329999997
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:01:28.370Z",
+      "time": 11.98791700000038
+    },
+    {
+      "index": 0,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 340.71287500000005
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 548.5824589999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 245.90975000000003
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 690.8537080000001
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 12.738624999999956
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:31.727Z",
+      "time": 297.78883300000007
+    },
+    {
+      "index": 0,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 1029.789917
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 583.5269169999999
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 736.252667
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 280.9616249999999
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 12.592957999999726
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:34.620Z",
+      "time": 252.77487500000007
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 13.23762499999998
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 951.2086250000001
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 678.8015419999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 247.126084
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 310.1157079999998
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:38.012Z",
+      "time": 273.57000000000016
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 444.88575000000003
+    },
+    {
+      "index": 1,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 864.965625
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 697.734375
+    },
+    {
+      "index": 3,
+      "name": "none",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 12.302999999999884
+    },
+    {
+      "index": 4,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 240.52445799999987
+    },
+    {
+      "index": 5,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:40.969Z",
+      "time": 282.9040420000001
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 244.53283400000004
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 312.79512499999987
+    },
+    {
+      "index": 2,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 332.5235829999999
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 733.883583
+    },
+    {
+      "index": 4,
+      "name": "none",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 11.455917000000227
+    },
+    {
+      "index": 5,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:43.997Z",
+      "time": 545.679959
+    },
+    {
+      "index": 0,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 244.86429199999998
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 338.28999999999996
+    },
+    {
+      "index": 2,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 790.197584
+    },
+    {
+      "index": 3,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 656.1367499999999
+    },
+    {
+      "index": 4,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 275.24037499999986
+    },
+    {
+      "index": 5,
+      "name": "none",
+      "date": "2025-09-11T02:01:47.027Z",
+      "time": 11.432042000000365
+    },
+    {
+      "index": 0,
+      "name": "none",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 13.010208999999975
+    },
+    {
+      "index": 1,
+      "name": "tailwindcss4-postcss",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 464.31437500000004
+    },
+    {
+      "index": 2,
+      "name": "tailwindcss4-vite",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 241.14758400000005
+    },
+    {
+      "index": 3,
+      "name": "unocss-vite",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 335.6704169999998
+    },
+    {
+      "index": 4,
+      "name": "unocss-postcss",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 548.0274589999999
+    },
+    {
+      "index": 5,
+      "name": "tailwindcss3",
+      "date": "2025-09-11T02:01:49.963Z",
+      "time": 720.037041
+    }
+  ]
+}
