@@ -40,7 +40,7 @@ zhihu-url: https://zhuanlan.zhihu.com/p/685445883
 
 none                                         14.42 ms / delta.      0.00 ms
 @tailwindcss/vite        v4.1.13            268.90 ms / delta.    254.48 ms (x1.00)
-unocss                   v66.5.1            362.08 ms / delta.    347.66 ms (x1.37)
+unocss/vite              v66.5.1            362.08 ms / delta.    347.66 ms (x1.37)
 @tailwindcss/postcss     v4.1.13            438.63 ms / delta.    424.21 ms (x1.67)
 tailwindcss3             v3.4.17            739.27 ms / delta.    724.85 ms (x2.85)
 @unocss/postcss          v66.5.1            912.33 ms / delta.    897.91 ms (x3.53)
@@ -50,14 +50,14 @@ tailwindcss3             v3.4.17            739.27 ms / delta.    724.85 ms (x2.
 
 从数据里可以很直观地看出几个结论：
 
-- **最快的是 `tailwindcss@vite`**，平均 **268.90ms**。
+- **最快的是 `tailwindcss@vite`**，平均 **268ms**。
 - **最慢的是 `@unocss/postcss`**，接近 **912ms**。
 - **`@tailwindcss/vite` vs `unocss/vite`**：
   - `unocss/vite`（362ms）对比 `tailwindcss@vite`（268ms），大概 **慢 1.37 倍**。
 - **postcss 模式的开销真的很大**：
-  - `tailwindcss@postcss` 比 `vite` 版本慢将近一倍（`438.63`ms）。
+  - `tailwindcss@postcss` 比 `vite` 版本慢将近一倍（438ms）。
   - `@unocss/postcss` 更是接近 `vite` 版 `tailwindcss@4` 的 **4倍**。
-- **老的 tailwindcss@3**（`710ms`）基本没法和新版本比，性能差距太明显。
+- **老的 tailwindcss@3**（`739ms`）基本没法和新版本比，性能差距太明显。
 
 因为这个结果，所以这篇文章起了这个标题 `tailwindcss 究竟比 unocss 快多少？`，正好和去年的反过来了。
 
